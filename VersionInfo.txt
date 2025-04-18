@@ -1,0 +1,29 @@
+----------------HARDWARE:
+Device Name	letters-hyphens-and-numbers
+Processor	AMD Ryzen 9 3900XT 12-Core Processor              3.80 GHz
+Installed RAM	32.0 GB
+Storage	954 GB SSD WDC PC SN530 SDBPNPZ-1T00-1002, 466 GB SSD CT500P5SSD8
+Graphics Card	NVIDIA GeForce RTX 3060 Ti (8 GB)
+Device ID	B215F391-7399-4E44-BF83-0D4339260B01
+Product ID	00330-80000-00000-AA573
+System Type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
+
+----------------OS:
+Edition	Windows 10 Pro
+Version	2009
+Installed on	‎21/‎10/‎2023
+OS Build	19045.5674
+
+
+----------------EMU:
+Ryujinx 1.2.86
+Firmware 19.0.1
+Game 1.3.0 (XCI / Bundled Update)
+
+----------------MODS:
+Lumi 2.1f
+Dechibi 1.0.5a + G00
+Darker UI Lumi 2.3
+Original Typings 1.0
