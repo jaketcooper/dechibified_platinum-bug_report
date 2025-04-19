@@ -1,0 +1,52 @@
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv Create: Created map 3012 with size 0x01000000!
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv PrintResult: Create returned result Success
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv PrintResult: Alloc returned result Success
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv PrintResult: Param returned result Success
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv GetFreeAddress: Searching for a free address @ 0x100000000 of size 0x1000000.
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv GetFreeAddress: Target address set to start of the last available range: 0x301B50000.
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv GetFreeAddress: Reset and aligned address to 301B50000.
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv GetFreeAddress: Found a suitable free address range from 0x301B50000 to 0x10000000000 for 0x301B50000.
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv AllocateRange: Allocating range from 0x301B50000 to 0x302B50000.
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv AllocateRange: Created smaller address range from 0x302B50000 to 0x10000000000.
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv PrintResult: MapBufferEx returned result Success
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv PrintResult: Param returned result Success
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv GetFreeAddress: Searching for a free address @ 0x100000000 of size 0x1000000.
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv GetFreeAddress: Target address set to start of the last available range: 0x302B50000.
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv GetFreeAddress: Reset and aligned address to 302B50000.
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv GetFreeAddress: Found a suitable free address range from 0x302B50000 to 0x10000000000 for 0x302B50000.
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv AllocateRange: Allocating range from 0x302B50000 to 0x303B50000.
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv AllocateRange: Created smaller address range from 0x303B50000 to 0x10000000000.
+00:02:00.490 |D| HLE.OsThread.4 ServiceNv PrintResult: MapBufferEx returned result Success
+00:02:02.114 |D| HLE.OsThread.4 ServiceNv PrintResult: MapBufferEx returned result Success
+00:02:02.114 |D| HLE.OsThread.4 ServiceNv PrintResult: MapBufferEx returned result Success
+00:02:02.119 |D| HLE.OsThread.4 ServiceNv PrintResult: MapBufferEx returned result Success
+00:02:02.128 |D| HLE.OsThread.4 ServiceNv PrintResult: MapBufferEx returned result Success
+00:02:02.129 |D| HLE.OsThread.4 ServiceNv PrintResult: MapBufferEx returned result Success
+00:02:02.129 |D| HLE.OsThread.4 ServiceNv PrintResult: MapBufferEx returned result Success
+00:02:02.639 |D| HLE.OsThread.4 ServiceNv PrintResult: MapBufferEx returned result Success
+00:02:02.639 |D| HLE.OsThread.4 ServiceNv PrintResult: MapBufferEx returned result Success
+00:02:02.639 |D| HLE.OsThread.4 ServiceNv PrintResult: MapBufferEx returned result Success
+00:02:03.027 |D| HLE.OsThread.4 ServiceNv DeallocateRange: Deallocating address range from 0x2FAB50000 to 0x2FBB50000.
+00:02:03.027 |D| HLE.OsThread.4 ServiceNv DeallocateRange: Deallocation resulted in new free range from 0x2FAB50000 to 0x2FBB50000.
+00:02:03.027 |D| HLE.OsThread.4 ServiceNv PrintResult: UnmapBuffer returned result Success
+00:02:03.027 |D| HLE.OsThread.4 ServiceNv DeallocateRange: Deallocating address range from 0x2F9B50000 to 0x2FAB50000.
+00:02:03.027 |D| HLE.OsThread.4 ServiceNv DeallocateRange: Deallocation resulted in new free range from 0x2F9B50000 to 0x2FBB50000.
+00:02:03.027 |D| HLE.OsThread.4 ServiceNv PrintResult: UnmapBuffer returned result Success
+00:02:03.027 |D| HLE.OsThread.4 ServiceNv DeallocateRange: Deallocating address range from 0x2F8B50000 to 0x2F9B50000.
+00:02:03.027 |D| HLE.OsThread.4 ServiceNv DeallocateRange: Deallocation resulted in new free range from 0x2F8B50000 to 0x2FBB50000.
+00:02:03.027 |D| HLE.OsThread.4 ServiceNv PrintResult: UnmapBuffer returned result Success
+00:02:03.027 |D| HLE.OsThread.4 ServiceNv DecrementMapRefCount: Deleted map 3004!
+00:02:03.027 |D| HLE.OsThread.4 ServiceNv PrintResult: Free returned result Success
+00:02:03.173 |D| HLE.OsThread.4 ServiceNv DeallocateRange: Deallocating address range from 0x2FFB50000 to 0x301B50000.
+00:02:03.173 |D| HLE.OsThread.4 ServiceNv DeallocateRange: Deallocation resulted in new free range from 0x2FFB50000 to 0x301B50000.
+00:02:03.173 |D| HLE.OsThread.4 ServiceNv PrintResult: UnmapBuffer returned result Success
+00:02:03.173 |D| HLE.OsThread.4 ServiceNv DeallocateRange: Deallocating address range from 0x2FDB50000 to 0x2FFB50000.
+00:02:03.173 |D| HLE.OsThread.4 ServiceNv DeallocateRange: Deallocation resulted in new free range from 0x2FDB50000 to 0x301B50000.
+00:02:03.173 |D| HLE.OsThread.4 ServiceNv PrintResult: UnmapBuffer returned result Success
+00:02:03.173 |D| HLE.OsThread.4 ServiceNv DeallocateRange: Deallocating address range from 0x2FBB50000 to 0x2FDB50000.
+00:02:03.173 |D| HLE.OsThread.4 ServiceNv DeallocateRange: Deallocation resulted in new free range from 0x2FBB50000 to 0x301B50000.
+00:02:03.173 |D| HLE.OsThread.4 ServiceNv PrintResult: UnmapBuffer returned result Success
+00:02:03.173 |D| HLE.OsThread.4 ServiceNv DecrementMapRefCount: Deleted map 3008!
+00:02:03.173 |D| HLE.OsThread.4 ServiceNv PrintResult: Free returned result Success
+00:02:08.746 |D| SurfaceFlinger.Composer SurfaceFlinger AcquireBuffer: Max acquired buffer count reached: 2 (max: 1)
+00:02:11.258 |N| GUI.RenderThread Application ReloadConfig: Loading configuration from: C:\Users\[redacted]\AppData\Roaming\Ryujinx\Config.json
